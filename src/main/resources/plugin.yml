@@ -1,0 +1,10 @@
+name: AuthTGEM
+version: '${project.version}'
+main: org.ezhik.authtgem.AuthTGEM
+api-version: '1.20'
+Author: 'Ezhik24'
+website: 'https://t.me/ezhichek11'
+
+commands:
+  code:
+    description: 'Код потверждения'
